@@ -21,10 +21,10 @@ Hello! I am Ratnangshu Das, a Prime Minister Research Fellow at the Robert Bosch
 
 My recent works include developing a novel Spatiotemporal Tube-based control formulation which offers a closed-form solution to satisfy reach-avoid-stay specifications in unknown systems. Currently, I am interested in extending my work to general temporal logic specifications and multi-agent systems.
 
-I completed my B.Tech and M.Tech from the Indian Institute of Technology, Kanpur (IITB). 
+I completed my B.Tech and M.Tech from the Indian Institute of Technology, Kanpur (IITK). 
 
-Click here for a detailed CV.
-Follow me on Google Scholar, X (earlier twitter) and LinkedIn to keep informed with my latest research and projects.
+Click here for a detailed [CV](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/ratnangshud_iisc_ac_in/EWi1BSRNQ1RKoDn1uuD4HFcBF_y8m1sNE2z6h3aVfSqrxA?e=Il9Luj).
+<!-- Follow me on Google Scholar, X (earlier twitter) and LinkedIn to keep informed with my latest research and projects. -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
