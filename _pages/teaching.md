@@ -7,6 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+- Analysis of Nonlinear Systems [Flyer](https://isssonline.in/wp-content/uploads/2023/04/PMRF_ISSSflyerTemplate_Applied-Nonlinear-Control.pdf) (Summer 2023)
+- Nonlinear Control [Flyer](https://isssonline.in/wp-content/uploads/2023/04/PMRF_ISSSflyerTemplate_Applied-Nonlinear-Control.pdf) (Fall 2023)
+- Applied Linear & Nonlinear Control (Fall 2023)
+- Linear Control Systems [Flyer](https://isssonline.in/wp-content/uploads/2024/02/PMRF_ISSSflyer-Ratnangshu-Das.pdf) (Winter 2024)
