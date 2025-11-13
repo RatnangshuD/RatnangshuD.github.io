@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "STTs for Temporal Reach–Avoid–Stay (T-RAS) Tasks"
+title: "STTs for Temporal Reach Avoid Stay (T-RAS) Tasks"
 description: A sampling-based STT framework with closed-form control for unknown nonlinear systems
 img: assets/img/TRAS-STT/TRAS.png
 importance: 2

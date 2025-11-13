@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Approximation-Free Control for STL Specifications Using STTs"
+title: "STTs for Signal Temporal Logic (STL) Tasks"
 description: A closed-form, model-free control framework for general STL specifications using Spatiotemporal Tubes
 img: assets/img/STL-STT/STL.png
 importance: 3
