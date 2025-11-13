@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Socially Aware Multi-Agent Control using Real-Time STTs
+title: "Socially Aware Multi-Agent Control using Real-Time STTs"
 description: Real-time spatiotemporal tubes for socially aware navigation and multi-agent coordination
 img: assets/img/SocialSTT/SocialAwareness.png
 importance: 1
