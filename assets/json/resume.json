@@ -159,19 +159,19 @@
     }
   ],
 
-  "publications": [
-    { "name": "Scalable and Approximation-free Symbolic Control for Unknown Euler-Lagrange Systems", "publisher": "arXiv / Submitted to Automatica", "releaseDate": "2025", "url": "" },
-    { "name": "Spatiotemporal Tubes for Reach-Avoid-Stay Tasks in Unknown Systems", "publisher": "IEEE TAC", "releaseDate": "2025" },
-    { "name": "STT-based Control of Unknown Multi-Agent Systems", "publisher": "IEEE TCNS", "releaseDate": "2025" },
-    { "name": "Approximation-free STL Control using STTs", "publisher": "IEEE L-CSS", "releaseDate": "2025" },
-    { "name": "Maximally Resilient Controllers under Temporal Logic Specifications", "publisher": "CDC", "releaseDate": "2025" },
-    { "name": "Assume–Guarantee Contracts via Resilience", "publisher": "CDC", "releaseDate": "2025" },
-    { "name": "CBFs for Prescribed-time RAS using STTs", "publisher": "ECC", "releaseDate": "2025" },
-    { "name": "RAS–Collision Avoidance Negotiation via STTs", "publisher": "ECC", "releaseDate": "2025" },
-    { "name": "Prescribed-time RAS for Unknown Systems", "publisher": "IEEE L-CSS", "releaseDate": "2024" },
-    { "name": "Safe Multi-Robot Exploration via Symbolic Control", "publisher": "ICRA", "releaseDate": "2024" },
-    { "name": "Tele-Manipulators for Remote Diagnostic Procedures", "publisher": "CSI Transactions on ICT", "releaseDate": "2023" }
-  ],
+  // "publications": [
+  //   { "name": "Scalable and Approximation-free Symbolic Control for Unknown Euler-Lagrange Systems", "publisher": "arXiv / Submitted to Automatica", "releaseDate": "2025", "url": "" },
+  //   { "name": "Spatiotemporal Tubes for Reach-Avoid-Stay Tasks in Unknown Systems", "publisher": "IEEE TAC", "releaseDate": "2025" },
+  //   { "name": "STT-based Control of Unknown Multi-Agent Systems", "publisher": "IEEE TCNS", "releaseDate": "2025" },
+  //   { "name": "Approximation-free STL Control using STTs", "publisher": "IEEE L-CSS", "releaseDate": "2025" },
+  //   { "name": "Maximally Resilient Controllers under Temporal Logic Specifications", "publisher": "CDC", "releaseDate": "2025" },
+  //   { "name": "Assume–Guarantee Contracts via Resilience", "publisher": "CDC", "releaseDate": "2025" },
+  //   { "name": "CBFs for Prescribed-time RAS using STTs", "publisher": "ECC", "releaseDate": "2025" },
+  //   { "name": "RAS–Collision Avoidance Negotiation via STTs", "publisher": "ECC", "releaseDate": "2025" },
+  //   { "name": "Prescribed-time RAS for Unknown Systems", "publisher": "IEEE L-CSS", "releaseDate": "2024" },
+  //   { "name": "Safe Multi-Robot Exploration via Symbolic Control", "publisher": "ICRA", "releaseDate": "2024" },
+  //   { "name": "Tele-Manipulators for Remote Diagnostic Procedures", "publisher": "CSI Transactions on ICT", "releaseDate": "2023" }
+  // ],
 
   "languages": [
     { "language": "English", "fluency": "Fluent" },
@@ -195,32 +195,32 @@
 
   "references": [
     {
-      "name": "Prof. Pushpak Jagtap",
+      "name": "Pushpak Jagtap",
       "reference": "Assistant Professor, RBCCPS, IISc Bangalore — PhD Supervisor",
       "url": "mailto:pushpak@iisc.ac.in"
     },
     {
-      "name": "Dr. Sadegh Soudjani",
+      "name": "Sadegh Soudjani",
       "reference": "Senior Research Group Leader, MPI-SWS; Professor, University of Birmingham — Research Collaborator",
       "url": "mailto:sadegh@mpi-sws.org"
     },
     {
-      "name": "Dr. Adnane Saoud",
+      "name": "Adnane Saoud",
       "reference": "Assistant Professor, UM6P Morocco — Research Collaborator",
       "url": "mailto:Adnane.SAOUD@um6p.ma"
     },
     {
-      "name": "Dr. Christos Verginis",
+      "name": "Christos Verginis",
       "reference": "Assistant Professor, Uppsala University — Research Collaborator",
       "url": "mailto:christos.verginis@angstrom.uu.se"
     },
     {
-      "name": "Prof. Indranil Saha",
+      "name": "Indranil Saha",
       "reference": "Professor, IIT Kanpur — Research Collaborator",
       "url": "mailto:isaha@cse.iitk.ac.in"
     },
     {
-      "name": "Prof. Bishakh Bhattacharya",
+      "name": "Bishakh Bhattacharya",
       "reference": "Professor, IIT Kanpur — M.Tech Supervisor",
       "url": "mailto:bishakh@iitk.ac.in"
     }
