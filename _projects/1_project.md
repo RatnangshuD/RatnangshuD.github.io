@@ -4,7 +4,7 @@ title: Socially Aware Multi-Agent Control using Real-Time STTs
 description: Real-time spatiotemporal tubes for socially aware navigation and multi-agent coordination
 img: assets/img/SocialSTT/SocialAwareness.png
 importance: 1
-category: work # research
+category: research
 related_publications: true
 ---
 
@@ -12,7 +12,7 @@ An autonomous vehicle delivering groceries is expected to exhibit higher social 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/SocialSTT/SocialAwareness.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/SocialSTT/SocialAwareness.png" title="Social awareness illustration" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -33,14 +33,21 @@ To examine the influence of the social awareness index, we considered two scenar
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/SocialSTT/hardware.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/SocialSTT/hardware.gif" title="Hardware demonstration" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Interaction between an egoistic (high-priority) fire truck and an altruistic (collision-avoiding) grocery vehicle.
+    Hardware demonstration of two omnidirectional robots in a cluttered dynamic environment
 </div>
 
-<div class="row">
+# Related Publication  
+**Incorporating Social Awareness into Control of Unknown Multi-Agent Systems: A Real-Time Spatiotemporal Tubes Approach**  
+R. Das, S. Upadhyay, P. Jagtap  
+arXiv:2510.25597 (2025)
+
+[Read the paper](https://arxiv.org/pdf/2510.25597)
+
+<!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -69,4 +76,4 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
 </div>
 <div class="caption">
     You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+</div> -->
