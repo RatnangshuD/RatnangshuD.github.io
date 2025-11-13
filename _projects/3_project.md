@@ -14,7 +14,7 @@ This project develops a **Spatiotemporal Tube (STT)-based control framework** fo
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/STT-STT/STT.png" title="Spatiotemporal Tube illustration" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/STL-STT/STT.png" title="Spatiotemporal Tube illustration" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
