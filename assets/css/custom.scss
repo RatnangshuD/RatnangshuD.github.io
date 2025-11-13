@@ -1,0 +1,6 @@
+/* Override lowercase titles in project cards */
+.card-title,
+.project-content .title,
+.grid .card .card-title {
+  text-transform: none !important;
+}
