@@ -8,8 +8,7 @@ category: work # research
 related_publications: true
 ---
 
-This project develops a **real-time Spatiotemporal Tube (STT) framework** that allows **socially aware, disturbance-robust, and collision-free control** of **unknown multi-agent systems**.  
-Each agent is assigned a **Social Awareness Index (SAI)** that modulates its behavior: egoistic or altruistic, allowing human-like interactive behavior during navigation.
+An autonomous vehicle delivering groceries is expected to exhibit higher social awareness (**altruistic**: more cooperative and cautious, prioritizing safety) compared to a fire-truck (**egoistic**: more goal-driven, prioritizing task completion). The fire truck may move straight ahead, while a commercial vehicle should adjust its behavior to prevent collisions. Thus, social awareness can be viewed as a personality trait, and modeling heterogeneous interactions among agents leads to a more realistic representation of such systems.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -20,6 +19,9 @@ Each agent is assigned a **Social Awareness Index (SAI)** that modulates its beh
     Interaction between an egoistic (high-priority) fire truck and an altruistic (collision-avoiding) grocery vehicle.
 </div>
 
+In this project, we develop a **real-time Spatiotemporal Tube (STT) framework** that allows **socially aware, model-free, and computationally fast control** of **unknown multi-agent systems**.  
+Each agent is assigned a **Social Awareness Index** that modulates its behavior: egoistic or altruistic, allowing human-like interactive behavior during navigation.
+
 The approach combines:
 - Real-time STT construction  
 - Model-free closed-form control  
@@ -27,6 +29,16 @@ The approach combines:
 - Multi-agent safety and negotiation  
 - Prescribed-time reach-avoid-stay (TRAS) guarantees  
 
+To examine the influence of the social awareness index, we considered two scenarios with two omnidirectional robots (blue and yellow). In Case~1, the blue agent was assigned a higher social awareness index than the yellow agent. Consequently, the blue agent behaved more altruistically, showing greater flexibility and cooperation, whereas the yellow agent was more egoistic, prioritizing its goal and obstacle avoidance. In Case~2, the social awareness indices were swapped while keeping all other parameters identical, leading to the opposite behaviors compared to Case~1.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/SocialSTT/hardware.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Interaction between an egoistic (high-priority) fire truck and an altruistic (collision-avoiding) grocery vehicle.
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -58,23 +70,3 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
 <div class="caption">
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
