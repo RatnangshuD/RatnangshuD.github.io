@@ -1,6 +1,7 @@
-/* Fix lowercase titles on the Projects overview page */
-.grid .card .card-title,
-.projects .card-title,
-.card-title {
+/* OVERRIDE ALL LOWERCASE PROJECT TITLES */
+.projects h3.card-title,
+.grid h3.card-title,
+.card h3.card-title,
+h3.card-title {
   text-transform: none !important;
 }
