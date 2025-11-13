@@ -33,7 +33,7 @@ To examine the influence of the social awareness index, we considered two scenar
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/SocialSTT/hardware.gif" title="Hardware demonstration" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/SocialSTT/hardware1.mp4" title="Hardware demonstration" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
