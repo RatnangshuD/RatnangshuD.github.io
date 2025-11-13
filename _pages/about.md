@@ -20,7 +20,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-I am a Prime Minister’s Research Fellow (PMRF) at the Robert Bosch Centre for Cyber-Physical Systems (RBCCPS), Indian Institute of Science (IISc) Bangalore, working in the [FOCAS Lab](https://www.focaslab.com/) under [Prof. Pushpak Jagtap](https://scholar.google.com/citations?user=Szd98jUAAAAJ&hl=en). My research focuses on formal methods and scalable, disturbance-robust control for unknown nonlinear systems, particularly under complex temporal logic specifications.
+I am a Prime Minister’s Research Fellow at the Robert Bosch Centre for Cyber-Physical Systems (RBCCPS), Indian Institute of Science (IISc) Bangalore, working in the [FOCAS Lab](https://www.focaslab.com/) under [Prof. Pushpak Jagtap](https://scholar.google.com/citations?user=Szd98jUAAAAJ&hl=en). My research focuses on formal methods and scalable, disturbance-robust control for unknown nonlinear systems, particularly under complex temporal logic specifications.
 
 A major part of my work involves developing a **Spatiotemporal Tube (STT)-based control framework**, which provides model-free, closed-form controllers with strong robustness guarantees. Over time, I have extended STTs to support a wide spectrum of tasks, including temporal reach–avoid tasks, the full class of STL specifications, learning from demonstration, real-time dynamic obstacle avoidance, and multi-agent coordination such as negotiation-based control, learning-based interactions, and socially aware navigation. They also provide a formal foundation for constructing Control Barrier Functions (CBFs).
 
