@@ -22,7 +22,7 @@ It scales to dozens of agents, works under unknown disturbances, and supports re
 
 ---
 
-# 🎥 Hardware Demonstration (GIF)
+<!-- # 🎥 Hardware Demonstration (GIF)
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/hardware.gif" title="Hardware demonstration" class="img-fluid rounded z-depth-1" %}
@@ -30,7 +30,7 @@ It scales to dozens of agents, works under unknown disturbances, and supports re
 </div>
 <div class="caption">
     Hardware experiment: Two omnidirectional robots performing socially aware negotiation and collision avoidance.
-</div>
+</div> -->
 
 ---
 
