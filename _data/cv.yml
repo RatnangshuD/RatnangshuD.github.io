@@ -1,97 +1,222 @@
+# ============================
+# CV - Ratnangshu Das
+# ============================
+
 - title: General Information
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Ratnangshu Das
+    - name: Email
+      value: ratnangshud@iisc.ac.in
+    - name: Phone
+      value: (+91) 8017610875
+    - name: LinkedIn
+      value: https://www.linkedin.com/in/ratnangshu-d-11955a107/
+    - name: GitHub
+      value: https://github.com/RatnangshuD
+    - name: Google Scholar
+      value: https://scholar.google.com/citations?user=miRvKrsAAAAJ
+
+# ============================
+# Education
+# ============================
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D., Prime Minister’s Research Fellow (PMRF)
+      institution: Robert Bosch Centre for Cyber-Physical Systems, Indian Institute of Science (IISc), Bangalore
+      year: 2023–Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - GPA: 9.3/10.0
 
-- title: Experience
+    - title: BT-MT Dual Degree, Mechanical Engineering
+      institution: Indian Institute of Technology Kanpur (IIT Kanpur), India
+      year: 2017–2022
+      description:
+        - GPA: 10.0/10.0 (PG), 9.5/10.0 (UG)
+
+    - title: Indian School Certificate (ISC)
+      institution: St. Stephen’s School, Kolkata
+      year: 2017
+      description:
+        - Percentage: 96.2%
+
+    - title: Indian Certificate of Secondary Education (ICSE)
+      institution: St. Stephen’s School, Kolkata
+      year: 2015
+      description:
+        - Percentage: 96.6%
+
+# ============================
+# Research Experience
+# ============================
+
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Formal Control of Autonomous Systems
+      institution: RBCCPS, IISc Bangalore
+      year: Jan 2023 – Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Supervisor: Prof. Pushpak Jagtap
+
+    - title: Telemedicine and Medical Robotics
+      institution: IIT Kanpur
+      year: Jun 2022 – Dec 2022
+
+    - title: Trust in Child–Robot Interaction
+      institution: IIT Kanpur & Université de Lorraine, France
+      year: May 2021 – Dec 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Supervisors: Dr. Bishakh Bhattacharya, Dr. Mayank Shekhar Jha
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Ungrounded Force Feedback in Portable Haptic Devices
+      institution: Delft University of Technology (TU Delft), Netherlands
+      year: May 2021 – Nov 2021
       description:
+        - Supervisor: Dr. Yasemin Vardar
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Haptipedia – Haptic Devices Database
+      institution: Max Planck Institute for Intelligent Systems, Stuttgart, Germany
+      year: Jun 2020 – Sept 2020
+      description:
+        - Supervisor: Dr. Katherine J. Kuchenbecker
 
-- title: Open Source Projects
-  type: time_table
+    - title: Humanoid Robotics
+      institution: IIT Kanpur
+      year: Dec 2017 – Apr 2020
+      description:
+        - Supervisor: Prof. Indranil Saha
+
+# ============================
+# Publications & Patents
+# ============================
+
+- title: List of Recent Publications and Patents
+  type: list
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - "Das, R., Sawarkar, S., & Jagtap, P. (2025). *Scalable and Approximation-free Symbolic Control for Unknown Euler-Lagrange Systems.* arXiv:2509.19859. (submitted to Automatica)"
+    - "Das, R., Basu, A., & Jagtap, P. (2025). *Spatiotemporal Tubes for Reach-Avoid-Stay Tasks in Unknown Systems.* IEEE TAC."
+    - "Das, R., Basu, A., & Jagtap, P. (2025). *STT-based Control of Unknown Multi-Agent Systems for RAS Tasks.* IEEE TCNS."
+    - "Das, R., Choudhury, S., & Jagtap, P. (2025). *Approximation-free STL Control using STTs.* IEEE L-CSS."
+    - "Das, R., Upadhyay, S., & Jagtap, P. (2025). *Socially Aware Control of Unknown Multi-Agent Systems.* arXiv:2510.25597 (submitted to Automatica)"
+    - "Si, Y. A., Das, R., et al. (2025). *Maximally Resilient Controllers under Temporal Logic Specs.* (CDC 2025)"
+    - "Monir, N., Si, Y. A., Das, R., et al. (2025). *Feasible Assume–Guarantee Contracts via Resilience.* (CDC 2025)"
+    - "Das, R., Bakshi, P., & Jagtap, P. (2025). *CBFs for Prescribed-time RAS using STTs.* (ECC 2025)"
+    - "Faruqui, M., Das, R., & Jagtap, P. (2025). *RAS–Collision Avoidance Negotiation via STTs.* (ECC 2025)"
+    - "Das, R., & Jagtap, P. (2024). *Prescribed-time RAS for Unknown Systems.* IEEE L-CSS."
+    - "Das, R., & Jagtap, P. (2024). *Funnel-based Control for RAS.* ICC 2024."
+    - "Das, R., & Jagtap, P. (2024). *STTs for RAS.* HSCC 2024."
+    - "Juvvi, M. S., Sundarsingh, D. S., Das, R., & Jagtap, P. (2024). *Safe Multi-Robot Exploration via Symbolic Control.* ICRA 2024."
+    - "Yadav, P., Jain, N., Das, R., & Saha, I. (2024). *Stigma Separation System.* Indian Patent No. 564565 (2024)."
+    - "Das, R., Baishya, N. J., & Bhattacharya, B. (2023). *Review on Tele-Manipulators for Remote Diagnostic Procedures.* CSI Transactions on ICT."
+
+# ============================
+# Technical Skills
+# ============================
+
+- title: Technical Skills
+  type: list
+  contents:
+    - Maple, MATLAB, Python, Arduino, AutoCAD, Autodesk Inventor, Git, LaTeX, Linux, ROS, Simulink
+
+# ============================
+# Teaching Assistantship
+# ============================
+
+- title: Teaching Assistantship & Instruction
+  type: list
+  contents:
+    - Instructor, Formal Analysis and Control of Autonomous Systems (ISSS), 2024–2025
+    - Teaching Assistant, CP275, Formal Analysis and Control, IISc (2025)
+    - Instructor, Robot Learning and Control (ISSS) (2024–2025)
+    - Teaching Assistant, Deep Learning for Robotics (IISc) (2024)
+    - Instructor, Linear Control Systems (ISSS) (2024)
+    - Instructor, Applied Nonlinear Control Systems (ISSS) (2024)
+    - Teaching Assistant, CP241, Applied Linear & Nonlinear Control (IISc) (2023)
+    - Instructor, Analysis of Nonlinear Systems (ISSS) (2023)
+    - Teaching Assistant, ME354A, Vibration & Control, IIT Kanpur (2022)
+    - Teaching Assistant, ME352A, Theory of Mechanisms & Machines, IIT Kanpur (2021)
+
+# ============================
+# Honors & Awards
+# ============================
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Best Student Paper Award, IEEE ICC 2024
+    - year: 2023
       items:
-        - Max Planck Medal
+        - Prime Minister’s Research Fellow (PMRF)
+    - year: 2022
+      items:
+        - SIIC Student Innovation Award, IIT Kanpur
+        - Academic Excellence Award
+    - year: 2021
+      items:
+        - Academic Excellence Award
+    - year: 2020
+      items:
+        - Academic Excellence Award
+    - year: 2018
+      items:
+        - Second Prize, TCTD Challenge, Inter-IIT
+    - year: 2017
+      items:
+        - AIR 1201, JEE Advanced
+        - AIR 1207, JEE Main
+    - year: 2016
+      items:
+        - KVPY Scholarship Awardee
+    - year: 2015
+      items:
+        - NTSE Scholarship Awardee
 
-- title: Academic Interests
+# ============================
+# References
+# ============================
+
+- title: References
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Pushpak Jagtap
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Assistant Professor, RBCCPS, IISc Bangalore
+        - Email: pushpak@iisc.ac.in
+        - Relationship: PhD Supervisor
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Sadegh Soudjani
+      items:
+        - Senior Research Group Leader, MPI-SWS
+        - Professor, University of Birmingham
+        - Email: sadegh@mpi-sws.org
+        - Relationship: Research Collaborator
+
+    - title: Adnane Saoud
+      items:
+        - Assistant Professor, UM6P Morocco
+        - Email: Adnane.SAOUD@um6p.ma
+        - Relationship: Research Collaborator
+
+    - title: Christos Verginis
+      items:
+        - Assistant Professor, Uppsala University
+        - Email: christos.verginis@angstrom.uu.se
+        - Relationship: Research Collaborator
+
+    - title: Indranil Saha
+      items:
+        - Professor, IIT Kanpur
+        - Email: isaha@cse.iitk.ac.in
+        - Relationship: Research Collaborator
+
+    - title: Bishakh Bhattacharya
+      items:
+        - Professor, IIT Kanpur
+        - Email: bishakh@iitk.ac.in
+        - Relationship: M.Tech Supervisor
